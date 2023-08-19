@@ -1,0 +1,18 @@
+.tag {
+  background-color: transparent;
+  margin: 15px;
+}
+.active {
+  background-color: #f3aa4e;
+  color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  height: 30px;
+}
+.normal {
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  height: 30px;
+}
